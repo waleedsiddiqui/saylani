@@ -1,0 +1,19 @@
+Following are the best ways you can follow while working on git
+1) Install git from ( https://git-scm.com/ )
+2) Make repository in github.com
+3) Clone it in local system
+4) Make project which includes (index.html, app.js) etc
+5) Right Click to repo and click on gitBash here
+6) Use following commands when you are done with work
+........ a) git status
+........ b) git add -A
+........ c) git commit -m "your message"
+7) To upload it in remote
+........ d) git push -u origin master
+8) To clone any project
+........ e) git clone <Link>
+9) To get changes in local system from remote
+........ f) git pull
+10) If git asks you "who are you" then run following
+........ g) git config --global user.email "your email-id"
+........ h) git config --global user.name "your name"
